@@ -6,17 +6,5 @@ system.out.println("hellow world);
 
 
 
-
-
-
-
-
-
-  
-  
-
-
-  
-
 }
 }
